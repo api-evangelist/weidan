@@ -1,0 +1,18 @@
+generated: '2026-10-22'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.weidian.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Nov 24 03:21:04 2026 GMT
+  hsts: false
+domains:
+- domain: weidian.com
+  dnssec: true
+  caa:
+  - shunt-h5.wdfangyi.com.
+  - shunt-h5-fy06svb1.wdfangyi.com.
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine

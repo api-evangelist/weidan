@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/weidan/integrations
+- https://n8n.io/integrations/weidan/
+- https://composio.dev/toolkits/weidan
+- https://monid.ai/tools/weidan
+checked:
+- https://composio.dev/toolkits/weidan
+- https://monid.ai/tools/weidan
+- https://n8n.io/integrations/weidan/
+- https://zapier.com/apps/weidan/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
